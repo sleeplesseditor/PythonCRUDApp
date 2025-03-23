@@ -1,6 +1,6 @@
 # Python CRUD App (Flask Book API)
 
-This project is a basic CRUD app made using Python Flask, as an initial attempt to explore back-end/front-end architecture.
+This project is a basic CRUD app made using Python Flask, as an initial attempt to explore back-end/front-end architecture. Built using Hillary Wando's [guide article](https://medium.com/@hillarywando/how-to-create-a-basic-crud-api-using-python-flask-cd68ef5fd7e3).
 
 To run the app locally, using Docker, use the following commands:
 
